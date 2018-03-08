@@ -1,0 +1,17 @@
+<map id="IPlugProcessor.h" name="IPlugProcessor.h">
+<area shape="rect" id="node2" href="$_i_plug_base__select_8h_source.html" title="IPlugBase_select.h" alt="" coords="351,80,485,107"/>
+<area shape="rect" id="node16" href="$_i_plug_processor_8cpp_source.html" title="IPlugProcessor.cpp" alt="" coords="511,80,645,107"/>
+<area shape="rect" id="node3" href="$_i_plug_a_a_x_8h.html" title="AAX API base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="21,155,112,181"/>
+<area shape="rect" id="node5" href="$_i_plug_a_p_p_8h.html" title="Standalone application base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics..." alt="" coords="143,155,233,181"/>
+<area shape="rect" id="node7" href="$_i_plug_a_u_8h.html" title="AudioUnit v2 API base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="264,155,345,181"/>
+<area shape="rect" id="node9" href="$_i_plug_a_uv3_8h_source.html" title="IPlugAUv3.h" alt="" coords="371,155,467,181"/>
+<area shape="rect" id="node11" href="$_i_plug_presets_8cpp_source.html" title="IPlugPresets.cpp" alt="" coords="491,155,613,181"/>
+<area shape="rect" id="node12" href="$_i_plug_v_s_t_8h.html" title="VST2.4 API base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="638,155,727,181"/>
+<area shape="rect" id="node14" href="$_i_plug_v_s_t3_8h.html" title="VST3 base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="755,155,851,181"/>
+<area shape="rect" id="node4" href="$_i_plug_a_a_x_8cpp_source.html" title="IPlugAAX.cpp" alt="" coords="5,229,109,256"/>
+<area shape="rect" id="node6" href="$_i_plug_a_p_p_8cpp_source.html" title="IPlugAPP.cpp" alt="" coords="133,229,237,256"/>
+<area shape="rect" id="node8" href="$_i_plug_a_u_8cpp_source.html" title="IPlugAU.cpp" alt="" coords="261,229,357,256"/>
+<area shape="rect" id="node10" href="$_i_plug_a_uv3_8mm_source.html" title="IPlugAUv3.mm" alt="" coords="382,229,492,256"/>
+<area shape="rect" id="node13" href="$_i_plug_v_s_t_8cpp_source.html" title="IPlugVST.cpp" alt="" coords="627,229,729,256"/>
+<area shape="rect" id="node15" href="$_i_plug_v_s_t3_8cpp_source.html" title="IPlugVST3.cpp" alt="" coords="754,229,864,256"/>
+</map>

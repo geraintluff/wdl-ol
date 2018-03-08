@@ -1,0 +1,8 @@
+<map id="IPlugPresetHandler" name="IPlugPresetHandler">
+<area shape="rect" id="node2" href="$class_i_plug_a_a_x.html" title="AAX API base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="5,80,83,107"/>
+<area shape="rect" id="node3" href="$class_i_plug_a_p_p.html" title="Standalone application base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics..." alt="" coords="107,80,185,107"/>
+<area shape="rect" id="node4" href="$class_i_plug_a_u.html" title="AudioUnit v2 API base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="210,80,280,107"/>
+<area shape="rect" id="node5" href="$class_i_plug_a_uv3.html" title="IPlugAUv3" alt="" coords="305,80,391,107"/>
+<area shape="rect" id="node6" href="$class_i_plug_v_s_t.html" title="VST2.4 API base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="415,80,493,107"/>
+<area shape="rect" id="node7" href="$class_i_plug_v_s_t3.html" title="VST3 base class for an IPlug plug&#45;in, inherits from IPlugBase or IPlugBaseGraphics. " alt="" coords="519,80,604,107"/>
+</map>

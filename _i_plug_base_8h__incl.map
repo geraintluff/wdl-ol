@@ -1,0 +1,10 @@
+<map id="IPlugBase.h" name="IPlugBase.h">
+<area shape="rect" id="node6" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="635,155,745,181"/>
+<area shape="rect" id="node15" href="$_i_plug_constants_8h.html" title="Constant definitions, Types, magic numbers. " alt="" coords="1072,379,1195,405"/>
+<area shape="rect" id="node17" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="577,304,684,331"/>
+<area shape="rect" id="node19" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="730,80,835,107"/>
+<area shape="rect" id="node22" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="284,229,407,256"/>
+<area shape="rect" id="node8" href="$_i_plug_logger_8h.html" title="IPlug logging a.k.a tracing functionailty. " alt="" coords="679,229,781,256"/>
+<area shape="rect" id="node21" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="1019,229,1105,256"/>
+<area shape="rect" id="node23" href="$_i_plug_easing_8h.html" title="Easing functions, based on Warren Moore&#39;s AHEasing library https://github.com/warrenm/AHEasing See he..." alt="" coords="45,304,147,331"/>
+</map>

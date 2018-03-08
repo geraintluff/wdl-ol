@@ -1,0 +1,18 @@
+<map id="IPlugVST3.h" name="IPlugVST3.h">
+<area shape="rect" id="node7" href="$_i_plug_base__select_8h_source.html" title="IPlugBase_select.h" alt="" coords="996,88,1130,115"/>
+<area shape="rect" id="node8" href="$_i_plug_base_graphics_8h.html" title="An IPlugBase class for an IPlug plug&#45;in that uses IGraphics for it&#39;s UI. " alt="" coords="1126,171,1271,197"/>
+<area shape="rect" id="node34" href="$_i_plug_processor_8h.html" title="The base class for IPlug Audio Processing. " alt="" coords="519,245,642,272"/>
+<area shape="rect" id="node39" href="$_i_plug_presets_8h.html" title="IPlugPresets.h" alt="" coords="1009,245,1116,272"/>
+<area shape="rect" id="node9" href="$_i_plug_base_8h.html" title="The lowest level base class of an IPlug plug&#45;in. " alt="" coords="1280,245,1374,272"/>
+<area shape="rect" id="node33" href="$_i_plug_delegate_8h_source.html" title="IPlugDelegate.h" alt="" coords="1142,245,1256,272"/>
+<area shape="rect" id="node14" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="1095,395,1206,421"/>
+<area shape="rect" id="node23" href="$_i_plug_constants_8h.html" title="Constant definitions, Types, magic numbers. " alt="" coords="671,619,794,645"/>
+<area shape="rect" id="node25" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="820,544,927,571"/>
+<area shape="rect" id="node27" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="789,320,894,347"/>
+<area shape="rect" id="node30" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="1506,469,1628,496"/>
+<area shape="rect" id="node16" href="$_i_plug_logger_8h.html" title="IPlug logging a.k.a tracing functionailty. " alt="" coords="1072,469,1174,496"/>
+<area shape="rect" id="node29" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="364,469,450,496"/>
+<area shape="rect" id="node31" href="$_i_plug_easing_8h.html" title="Easing functions, based on Warren Moore&#39;s AHEasing library https://github.com/warrenm/AHEasing See he..." alt="" coords="1557,544,1659,571"/>
+<area shape="rect" id="node35" href="$_n_chan_delay_8h_source.html" title="NChanDelay.h" alt="" coords="225,320,332,347"/>
+<area shape="rect" id="node36" href="$_i_plug_processor_8cpp_source.html" title="IPlugProcessor.cpp" alt="" coords="107,469,242,496"/>
+</map>
