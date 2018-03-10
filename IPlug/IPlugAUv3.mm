@@ -95,9 +95,11 @@ void IPlugAUv3::SetParameter(uint64_t address, float value)
 {
   const int paramIdx = (int) address;
   
-  WDL_MutexLock lock(&mParams_mutex);
+  ENTER_PARAMS_MUTEX;
   IParam* pParam = GetParam(paramIdx);
   pParam->Set((double) value);
+  LEAVE_PARAMS_MUTEX;
+  
   SendParameterValueToUIFromAPI(paramIdx, value, false);
   OnParamChange(paramIdx, EParamSource::kAutomation);
 }
@@ -106,16 +108,20 @@ float IPlugAUv3::GetParameter(uint64_t address)
 {
   const int paramIdx = (int) address;
 
-  WDL_MutexLock lock(&mParams_mutex);
-  return (float) GetParam(paramIdx)->Value();
+  ENTER_PARAMS_MUTEX;
+  const float val = (float) GetParam(paramIdx)->Value();
+  LEAVE_PARAMS_MUTEX;
+  return val;
 }
 
 const char* IPlugAUv3::GetParamDisplayForHost(uint64_t address, float value)
 {
   const int paramIdx = (int) address;
   
-  WDL_MutexLock lock(&mParams_mutex);
+  ENTER_PARAMS_MUTEX;
   GetParam(paramIdx)->GetDisplayForHost(value, false, mParamDisplayStr);
+  LEAVE_PARAMS_MUTEX;
+
   return (const char*) mParamDisplayStr.Get();
 }
 

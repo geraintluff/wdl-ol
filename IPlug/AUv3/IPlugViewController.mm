@@ -44,8 +44,8 @@
   dispatch_async(dispatch_get_main_queue(), ^
   {
     [_audioUnit openWindow:(void*)self.view];
-    int viewWidth = 300;
-    int viewHeight = 300;
+    int viewWidth = [_audioUnit width];
+    int viewHeight = [_audioUnit height];
     CGRect newSize = CGRectMake (0, 0, viewWidth, viewHeight);
     [self setFrame:newSize];
     self.preferredContentSize = CGSizeMake (viewWidth, viewHeight);
