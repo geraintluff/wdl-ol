@@ -481,4 +481,13 @@ static AUAudioUnitPreset* NewAUPreset(NSInteger number, NSString* pName)
   return mPlug->OpenWindow(pParent);
 }
 
+- (NSInteger)width
+{
+  return mPlug->Width();
+}
+
+- (NSInteger)height
+{
+  return mPlug->Height();
+}
 @end
